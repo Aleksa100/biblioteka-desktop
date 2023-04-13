@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#header {
+  padding: 0 0 2rem 0;
+  border: 12px;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+#search-bar {
+  list-style: none;
+  display: flexbox;
+  position: absolute;
+}
+
+#krug {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgb(12, 78, 176);
+}
